@@ -68,3 +68,5 @@ src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.cspro
 /src/RestaurantPOS.Infrastructure/bin/Debug/net8.0/RestaurantPOS.Core.pdb
 /src/RestaurantPOS.Infrastructure/bin/Debug/net8.0/RestaurantPOS.Infrastructure.dll
 /src/RestaurantPOS.Infrastructure/bin/Debug/net8.0/RestaurantPOS.Infrastructure.pdb
+/src/RestaurantPOS.Core/bin/Debug/net8.0/RestaurantPOS.Core.dll
+/src/RestaurantPOS.Core/bin/Debug/net8.0/RestaurantPOS.Core.pdb
