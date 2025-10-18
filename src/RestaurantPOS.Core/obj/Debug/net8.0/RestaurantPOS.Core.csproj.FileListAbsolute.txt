@@ -1,0 +1,13 @@
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\bin\Debug\net8.0\RestaurantPOS.Core.deps.json
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\bin\Debug\net8.0\RestaurantPOS.Core.dll
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\bin\Debug\net8.0\RestaurantPOS.Core.pdb
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.csproj.AssemblyReference.cache
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.AssemblyInfoInputs.cache
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.AssemblyInfo.cs
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.csproj.CoreCompileInputs.cache
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.sourcelink.json
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.dll
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\refint\RestaurantPOS.Core.dll
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\RestaurantPOS.Core.pdb
+C:\Projeler\Restaurant_POS\src\RestaurantPOS.Core\obj\Debug\net8.0\ref\RestaurantPOS.Core.dll

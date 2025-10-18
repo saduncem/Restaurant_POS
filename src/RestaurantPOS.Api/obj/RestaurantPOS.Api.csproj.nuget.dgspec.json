@@ -62,23 +62,23 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[8.14.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -222,6 +222,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -270,6 +276,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj": {
+                "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj"
+              },
               "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj": {
                 "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj"
               }
@@ -294,15 +303,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.3.23174.8, )"
+              "version": "[8.0.21, )"
             }
           },
           "imports": [
