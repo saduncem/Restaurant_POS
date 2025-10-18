@@ -20,6 +20,12 @@ namespace RestaurantPOS.Infrastructure
         public DbSet<OrderItem> OrderItems => Set<OrderItem>();
         public DbSet<Employee> Employees => Set<Employee>();
 
+        // New entities added for menu, payment and reports
+        public DbSet<Category> Categories => Set<Category>();
+        public DbSet<Product> Products => Set<Product>();
+        public DbSet<Payment> Payments => Set<Payment>();
+        public DbSet<Report> Reports => Set<Report>();
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
