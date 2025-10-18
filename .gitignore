@@ -14,3 +14,12 @@ src/RestaurantPOS.Infrastructure/bin/*
 src/RestaurantPOS.Infrastructure/obj/*
 src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.assets.cache
 src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.csproj.AssemblyReference.cache
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Api.dll
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Api.exe
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Api.pdb
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Application.dll
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Application.pdb
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Core.dll
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Core.pdb
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Infrastructure.dll
+/src/RestaurantPOS.Api/bin/Debug/net8.0/RestaurantPOS.Infrastructure.pdb
