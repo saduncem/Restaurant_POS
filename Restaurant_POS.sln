@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Core", "src\R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Infrastructure", "src\RestaurantPOS.Infrastructure\RestaurantPOS.Infrastructure.csproj", "{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Shared", "src\RestaurantPOS.Shared\RestaurantPOS.Shared.csproj", "{1D26EB4E-25DB-9443-D3E2-208301802E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D26EB4E-25DB-9443-D3E2-208301802E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D26EB4E-25DB-9443-D3E2-208301802E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D26EB4E-25DB-9443-D3E2-208301802E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D26EB4E-25DB-9443-D3E2-208301802E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

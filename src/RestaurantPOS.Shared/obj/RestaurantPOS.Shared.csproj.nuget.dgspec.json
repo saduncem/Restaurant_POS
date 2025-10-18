@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj": {}
+    "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Shared\\RestaurantPOS.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj": {
+    "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Shared\\RestaurantPOS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj",
-        "projectName": "RestaurantPOS.Core",
-        "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj",
+        "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Shared\\RestaurantPOS.Shared.csproj",
+        "projectName": "RestaurantPOS.Shared",
+        "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Shared\\RestaurantPOS.Shared.csproj",
         "packagesPath": "C:\\Users\\CemK\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\obj\\",
+        "outputPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,12 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.Extensions.Identity.Stores": {
-              "target": "Package",
-              "version": "[8.0.21, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
