@@ -74,3 +74,4 @@ src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.cspro
 /src/RestaurantPOS.Core/obj/Debug/net8.0/refint/RestaurantPOS.Core.dll
 /src/RestaurantPOS.Infrastructure/obj/Debug/net8.0/ref/RestaurantPOS.Infrastructure.dll
 /src/RestaurantPOS.Infrastructure/obj/Debug/net8.0/refint/RestaurantPOS.Infrastructure.dll
+/src/RestaurantPOS.Api/ClientApp/node_modules
