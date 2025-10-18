@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace RestaurantPOS.Core.Entities
 {
     /// <summary>

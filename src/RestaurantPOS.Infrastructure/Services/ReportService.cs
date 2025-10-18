@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using RestaurantPOS.Application.Interfaces;
 using RestaurantPOS.Core.Entities;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace RestaurantPOS.Infrastructure.Services
 {
