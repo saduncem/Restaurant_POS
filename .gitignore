@@ -34,3 +34,5 @@ src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.cspro
 /src/RestaurantPOS.Api/obj/Debug/net8.0/RestaurantPOS.Api.sourcelink.json
 /src/RestaurantPOS.Api/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
 /src/RestaurantPOS.Api/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/src/RestaurantPOS.Api/obj/Debug/net8.0/ref/RestaurantPOS.Api.dll
+/src/RestaurantPOS.Api/obj/Debug/net8.0/refint/RestaurantPOS.Api.dll
