@@ -25,6 +25,7 @@ builder.Services.AddScoped<ITableService, TableService>();
 builder.Services.AddScoped<IMenuService, MenuService>();
 builder.Services.AddScoped<IPaymentService, PaymentService>();
 builder.Services.AddScoped<IReportService, ReportService>();
+builder.Services.AddScoped<IDeliveryService, DeliveryService>();
 
 // Add SignalR for real‑time updates (tables, orders, etc.).
 builder.Services.AddSignalR();
