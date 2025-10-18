@@ -12,3 +12,5 @@ src/RestaurantPOS.Api/bin/*
 src/RestaurantPOS.Api/obj/*
 src/RestaurantPOS.Infrastructure/bin/*
 src/RestaurantPOS.Infrastructure/obj/*
+src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.assets.cache
+src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.csproj.AssemblyReference.cache
