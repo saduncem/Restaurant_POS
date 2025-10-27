@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Api", "src\RestaurantPOS.Api\RestaurantPOS.Api.csproj", "{06EFE697-B55B-C92E-A6D6-FE2F713C5A6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOS.Api", "src\APOS.Api\APOS.Api.csproj", "{06EFE697-B55B-C92E-A6D6-FE2F713C5A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Application", "src\RestaurantPOS.Application\RestaurantPOS.Application.csproj", "{1AD631CC-ACA6-BC1B-FB21-F3D42D3AC010}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOS.Application", "src\APOS.Application\APOS.Application.csproj", "{1AD631CC-ACA6-BC1B-FB21-F3D42D3AC010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Core", "src\RestaurantPOS.Core\RestaurantPOS.Core.csproj", "{0C931007-7386-B4EC-2A11-4B20AD85CADF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOS.Core", "src\APOS.Core\APOS.Core.csproj", "{0C931007-7386-B4EC-2A11-4B20AD85CADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Infrastructure", "src\RestaurantPOS.Infrastructure\RestaurantPOS.Infrastructure.csproj", "{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOS.Infrastructure", "src\APOS.Infrastructure\APOS.Infrastructure.csproj", "{B835BDD0-32E9-6F77-DA91-785E06A8F4F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantPOS.Shared", "src\RestaurantPOS.Shared\RestaurantPOS.Shared.csproj", "{1D26EB4E-25DB-9443-D3E2-208301802E1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOS.Shared", "src\APOS.Shared\APOS.Shared.csproj", "{1D26EB4E-25DB-9443-D3E2-208301802E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +42,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5502D337-5354-4796-AA50-AE571CC7AB37}
 	EndGlobalSection
 EndGlobal

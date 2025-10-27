@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQiJ4SH0ODI=",
+  "dgSpecHash": "hx1EHlbsvPw=",
   "success": true,
-  "projectFilePath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj",
+  "projectFilePath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\APOS.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CemK\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.21\\microsoft.aspnetcore.cryptography.internal.8.0.21.nupkg.sha512",
     "C:\\Users\\CemK\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.21\\microsoft.aspnetcore.cryptography.keyderivation.8.0.21.nupkg.sha512",

@@ -583,9 +583,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj",
-      "projectName": "RestaurantPOS.Application",
-      "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj",
+      "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\APOS.Application.csproj",
+      "projectName": "APOS.Application",
+      "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\APOS.Application.csproj",
       "packagesPath": "C:\\Users\\CemK\\.nuget\\packages\\",
       "outputPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXA2ksmjpTk=",
+  "dgSpecHash": "mTJEg/wSdjA=",
   "success": true,
-  "projectFilePath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\RestaurantPOS.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\APOS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CemK\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\CemK\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

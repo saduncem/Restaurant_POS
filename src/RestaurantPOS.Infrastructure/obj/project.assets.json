@@ -1068,17 +1068,30 @@
           }
         }
       },
-      "RestaurantPOS.Application/1.0.0": {
+      "APOS.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "RestaurantPOS.Core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/RestaurantPOS.Application.dll": {}
+          "bin/placeholder/APOS.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/RestaurantPOS.Application.dll": {}
+          "bin/placeholder/APOS.Application.dll": {}
+        }
+      },
+      "APOS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.21"
+        },
+        "compile": {
+          "bin/placeholder/APOS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APOS.Core.dll": {}
         }
       },
       "RestaurantPOS.Core/1.0.0": {
@@ -2906,10 +2919,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "RestaurantPOS.Application/1.0.0": {
+    "APOS.Application/1.0.0": {
       "type": "project",
-      "path": "../RestaurantPOS.Application/RestaurantPOS.Application.csproj",
-      "msbuildProject": "../RestaurantPOS.Application/RestaurantPOS.Application.csproj"
+      "path": "../RestaurantPOS.Application/APOS.Application.csproj",
+      "msbuildProject": "../RestaurantPOS.Application/APOS.Application.csproj"
+    },
+    "APOS.Core/1.0.0": {
+      "type": "project",
+      "path": "../RestaurantPOS.Core/APOS.Core.csproj",
+      "msbuildProject": "../RestaurantPOS.Core/APOS.Core.csproj"
     },
     "RestaurantPOS.Core/1.0.0": {
       "type": "project",
@@ -2919,11 +2937,11 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "APOS.Application >= 1.0.0",
+      "APOS.Core >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.21",
       "Microsoft.EntityFrameworkCore >= 8.0.21",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.21",
-      "RestaurantPOS.Application >= 1.0.0",
-      "RestaurantPOS.Core >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.21"
     ]
   },
   "packageFolders": {
@@ -2933,9 +2951,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\RestaurantPOS.Infrastructure.csproj",
-      "projectName": "RestaurantPOS.Infrastructure",
-      "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\RestaurantPOS.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\APOS.Infrastructure.csproj",
+      "projectName": "APOS.Infrastructure",
+      "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\APOS.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\CemK\\.nuget\\packages\\",
       "outputPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -2958,11 +2976,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj": {
-              "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\RestaurantPOS.Application.csproj"
+            "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\APOS.Application.csproj": {
+              "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Application\\APOS.Application.csproj"
             },
-            "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj": {
-              "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\RestaurantPOS.Core.csproj"
+            "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\APOS.Core.csproj": {
+              "projectPath": "C:\\Projeler\\Restaurant_POS\\src\\RestaurantPOS.Core\\APOS.Core.csproj"
             }
           }
         }
