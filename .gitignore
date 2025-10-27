@@ -75,3 +75,14 @@ src/RestaurantPOS.Application/obj/Release/net8.0/RestaurantPOS.Application.cspro
 /src/RestaurantPOS.Infrastructure/obj/Debug/net8.0/ref/RestaurantPOS.Infrastructure.dll
 /src/RestaurantPOS.Infrastructure/obj/Debug/net8.0/refint/RestaurantPOS.Infrastructure.dll
 /src/RestaurantPOS.Api/ClientApp/node_modules
+/src/APOS.Api/bin/Debug/net8.0
+/src/APOS.Api/ClientApp/node_modules
+/src/APOS.Application/bin/Debug/net8.0
+/src/APOS.Api/obj
+/src/APOS.Application/obj
+/src/APOS.Core/bin/Debug/net8.0
+/src/APOS.Core/obj
+/src/APOS.Infrastructure/bin/Debug/net8.0
+/src/APOS.Infrastructure/obj
+/src/APOS.Shared/bin/Debug/net8.0
+/src/APOS.Shared/obj
