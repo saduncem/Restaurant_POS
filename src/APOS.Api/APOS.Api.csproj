@@ -8,7 +8,7 @@
     <ProjectReference Include="..\APOS.Application\APOS.Application.csproj" />
     <ProjectReference Include="..\APOS.Core\APOS.Core.csproj" />
     <ProjectReference Include="..\APOS.Infrastructure\APOS.Infrastructure.csproj" />
-    <ProjectReference Include="..\RestaurantPOS.Core\APOS.Core.csproj" />
+    <ProjectReference Include="..\APOS.Core\APOS.Core.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.21" />
